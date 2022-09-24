@@ -1,5 +1,6 @@
 #servidor resta
 #Soto Larios Maribella
+#Torres Amezcua Maria Guadalupe
 import socket
 from time import sleep
 
